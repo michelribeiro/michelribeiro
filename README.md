@@ -1,7 +1,6 @@
 # Michel Ribeiro
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@michelribeiro35-1f2729?style=flat-square&labelColor=1f2729&logo=twitter&logoColor=white&link=https://twitter.com/michelribeiro35)](https://twitter.com/michelribeiro35)
 [![Linkedin Badge](https://img.shields.io/badge/-Michel%20Ribeiro-1f2729?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michelribeiro)](https://www.linkedin.com/in/michelribeiro) 
 [![Gmail Badge](https://img.shields.io/badge/-michelribeiro2004@gmail.com-1f2729?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michelribeiro2004@gmail.com)](mailto:michelribeiro2004@gmail.com)
 
